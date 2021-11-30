@@ -6,10 +6,7 @@
 - i love playing on browser console
 - i love Developing frontEnd 
 - i love Developing backends 
-- check more on my [Website](https://austinesamuel.netlify.app)
 - how to reach me      austinesamuel914@gmail.com, +2348063202017
-- know about my work and experience ? [visit web](https://austinesamuelcodes.000webhostapp.com/me/i/)
-
 # what can i help with?
 - JavaScript Cleint site Developing & debugging
 - php core Developing & debugging
